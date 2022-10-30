@@ -7,10 +7,10 @@ def menu():
 '''
 --------------------------------------------------------------------
 -----            you may select one of the menu below.         -----
------             1. show candidates and total votes           -----
------             2. add a new candidate                       -----
------             3. vote for a candidate                      -----
------             -. exit                                      -----
+-----            [1] show candidates and total votes           -----
+-----            [2] add a new candidate                       -----
+-----            [3] vote for a candidate                      -----
+-----            [-] exit                                      -----
 --------------------------------------------------------------------
 P.S. you may vote more than one time! 
 '''
